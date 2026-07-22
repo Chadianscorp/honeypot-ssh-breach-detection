@@ -32,9 +32,6 @@ This project shows how I analyze suspicious access behavior, connect findings to
 ## Status
 Completed
 
-## Artifacts
-- [Honeypot Report (PDF)](Honeypot_Report_final.pdf)
-
 ## Note
 *Developed as part of cybersecurity training. All simulations conducted in 
 an isolated lab environment.*
